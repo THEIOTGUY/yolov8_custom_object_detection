@@ -83,4 +83,8 @@ cap.release()
 out.release()
 cv2.destroyAllWindows()
 ```
+# Results :
+
+##![confusion_matrix](https://github.com/THEIOTGUY/yolov8_custom_object_detection/assets/102857010/9e6c9aa5-51ef-46f4-865c-3da9b7e4c48b)
+![results](https://github.com/THEIOTGUY/yolov8_custom_object_detection/assets/102857010/7b52b529-d196-40eb-a445-d8e04d16b521)
 
