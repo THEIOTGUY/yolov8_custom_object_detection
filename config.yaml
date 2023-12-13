@@ -1,0 +1,4 @@
+train: C:\Users\vaida\OneDrive\Desktop\data_alpaca\data\train
+val: C:\Users\vaida\OneDrive\Desktop\data_alpaca\data\val
+nc : 1
+names : ["alpaca"]
