@@ -25,6 +25,7 @@ pip install ultralytics
 
 Dataset can be found in "data" folder which contains "train" and "val" folder with images and labels for each
 
+For different dataset refer https://storage.googleapis.com/openimages/web/visualizer/index.html
 
 ### Code for Training :
 ```
@@ -84,7 +85,12 @@ out.release()
 cv2.destroyAllWindows()
 ```
 # Results :
+After 2 hours of training we get these following results :
 
-##![confusion_matrix](https://github.com/THEIOTGUY/yolov8_custom_object_detection/assets/102857010/9e6c9aa5-51ef-46f4-865c-3da9b7e4c48b)
+
+https://github.com/THEIOTGUY/yolov8_custom_object_detection/assets/102857010/31f67624-0bb9-4c00-a907-90ef129f0da4
+
+
+![confusion_matrix](https://github.com/THEIOTGUY/yolov8_custom_object_detection/assets/102857010/9e6c9aa5-51ef-46f4-865c-3da9b7e4c48b)
 ![results](https://github.com/THEIOTGUY/yolov8_custom_object_detection/assets/102857010/7b52b529-d196-40eb-a445-d8e04d16b521)
 
