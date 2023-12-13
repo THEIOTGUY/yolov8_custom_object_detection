@@ -9,7 +9,7 @@ We will be training a yolov8x model which is the most accurate model of all yolo
 
 ### Requirements :
 
-* Python (3.6 or higher)
+* Python (3.8 or higher)
 * CUDA-enabled GPU
 * CUDA version of pytorch install
 
